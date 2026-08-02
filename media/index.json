@@ -1,11 +1,5 @@
 {
-  "albums": [
-    {
-      "id": "album-1785631657952",
-      "name": "Foto ita",
-      "photos": []
-    }
-  ],
+  "albums": [],
   "videoAlbums": [],
   "laguAlbums": [],
   "settings": {}
